@@ -1,0 +1,12 @@
+.links{
+    display: flex;
+    align-items: center;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+   
+   padding-left: 50px;
+   padding-right: 50px;
+ 
+}
